@@ -65,4 +65,8 @@ This repository contains the hands-on Jupyter Notebook materials for the **Stati
 | `statsmodels` | Regression models and statistical inference |
 | `scikit-learn` | Machine learning models (regression, ROC) |
 
+## 📖 Reference
+
+Diez, D. M., Barr, C. D., & Cetinkaya-Rundel, M. (2012). OpenIntro statistics (Vol. 4). Boston, MA, USA:: OpenIntro.
+
 ---
